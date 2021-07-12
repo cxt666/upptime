@@ -34,13 +34,15 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page whch uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  theme: dark # light, dark, ocean
+  introTitle: "**menzer.net** Availability Monitoring"
+  introMessage: This is a status page uses **real-time** data from our [GitHub repository](https://github.com/cxt666/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: light # light, dark, ocean
   robotsText: "User-agent: * \n Disallow: /"
   user-agent: cxt666
   navbar:
     - title: Status
+      href: /upptime
+    - title: Root
       href: /
     - title: GitHub
       href: https://github.com/cxt666/upptime
