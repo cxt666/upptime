@@ -5,18 +5,20 @@ repo: upptime # The name of this repository
 sites:
   - name: Menzer.net
     url: http://menzer.net
-  - name: SURAS-DE
-    url: https://de-emea-vpn.schaeffler.com/vpn
-  - name: SURAS-DE 2
-    url: https://de-emea2-vpn.schaeffler.com/vpn
-  - name: SURAS-DE 3
-    url: https://de-emea3-vpn.schaeffler.com/vpn
+  - name: TTRSS
+    url: https://reader.mnzr.de
+#  - name: SURAS-DE
+#    url: https://de-emea-vpn.schaeffler.com/vpn
+#  - name: SURAS-DE 2
+#    url: https://de-emea2-vpn.schaeffler.com/vpn
+#  - name: SURAS-DE 3
+#    url: https://de-emea3-vpn.schaeffler.com/vpn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: stats.mnzr.de
-  baseUrl: https://cxt666.github.io/
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
