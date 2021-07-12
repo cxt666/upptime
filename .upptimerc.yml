@@ -7,12 +7,24 @@ sites:
     url: http://menzer.net
   - name: TTRSS
     url: https://reader.mnzr.de
-#  - name: SURAS-DE
-#    url: https://de-emea-vpn.schaeffler.com/vpn
-#  - name: SURAS-DE 2
-#    url: https://de-emea2-vpn.schaeffler.com/vpn
-#  - name: SURAS-DE 3
-#    url: https://de-emea3-vpn.schaeffler.com/vpn
+  - name: SURAS-DE
+    url: https://de-emea-vpn.schaeffler.com/vpn
+  - name: SURAS-DE 2
+    url: https://de-emea2-vpn.schaeffler.com/vpn
+  - name: SURAS-DE 3
+    url: https://de-emea3-vpn.schaeffler.com/vpn
+  - name: SURAS-AP
+    url: https://kr-ap-vpn.schaeffler.com/vpn
+  - name: SURAS-CN
+    url: https://cn-ap-vpn.schaefflercn.com/vpn
+  - name: SURAS-IN
+    url: https://in-ap-vpn.schaeffler.com/vpn
+  - name: SURAS-NA 1
+    url: https://us-equ1-vpn.schaeffler.com/vpn
+  - name: SURAS-NA 2
+    url: https://us-na2-vpn.schaeffler.com/vpn
+  - name: SURAS-BR
+    url: https://br-sa-vpn.schaeffler.com/vpn
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
