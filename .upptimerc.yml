@@ -9,7 +9,7 @@ sites:
   - name: TTRSS
     url: https://reader.mnzr.de
     __dangerous__disable_verify_peer: true
-    icon: https://reader.mnzr.de/images/favicon.png
+    icon: http://reader.mnzr.de/images/favicon.png
   - name: ubuntuusers.de
     url: https://ubuntuusers.de/
     icon: https://ubuntuusers.de/favicon.ico
