@@ -4,10 +4,10 @@
     "url": "http://menzer.net",
     "icon": "http://legacy.menzer.net/sites/default/files/dev.ico",
     "slug": "menzer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1099,
@@ -16,6 +16,7 @@
     "timeMonth": 1114,
     "timeYear": 1099,
     "dailyMinutesDown": {
+      "2021-08-27": 2,
       "2021-07-19": 20
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://reader.mnzr.de",
     "icon": "http://reader.mnzr.de/images/favicon.png",
     "slug": "ttrss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -36,6 +37,7 @@
     "timeMonth": 685,
     "timeYear": 699,
     "dailyMinutesDown": {
+      "2021-08-27": 0,
       "2021-07-19": 20,
       "2021-07-12": 45
     }
