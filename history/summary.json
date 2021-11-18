@@ -4,9 +4,9 @@
     "url": "http://menzer.net",
     "icon": "http://legacy.menzer.net/sites/default/files/dev.ico",
     "slug": "menzer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 1062,
     "timeYear": 1084,
     "dailyMinutesDown": {
+      "2021-11-18": 0,
       "2021-08-27": 16,
       "2021-07-19": 20
     }
@@ -26,11 +27,11 @@
     "icon": "http://reader.mnzr.de/images/favicon.png",
     "slug": "ttrss",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 790,
     "timeDay": 685,
     "timeWeek": 573,
