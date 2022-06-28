@@ -49,11 +49,11 @@
     "url": "https://ubuntuusers.de/",
     "icon": "https://ubuntuusers.de/favicon.ico",
     "slug": "ubuntuusers-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.32%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.96%",
     "time": 1147,
     "timeDay": 1185,
@@ -61,6 +61,7 @@
     "timeMonth": 1218,
     "timeYear": 1147,
     "dailyMinutesDown": {
+      "2022-06-28": 1,
       "2022-06-22": 168,
       "2021-07-25": 17
     }
@@ -70,10 +71,10 @@
     "url": "https://forum.ubuntuusers.de/",
     "icon": "https://ubuntuusers.de/favicon.ico",
     "slug": "ubuntuusers-de-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.88%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.87%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.97%",
     "time": 1058,
@@ -82,6 +83,7 @@
     "timeMonth": 1271,
     "timeYear": 1058,
     "dailyMinutesDown": {
+      "2022-06-28": 0,
       "2022-06-22": 113,
       "2021-07-25": 17
     }
