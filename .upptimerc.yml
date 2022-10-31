@@ -6,10 +6,13 @@ sites:
   - name: Menzer.net
     url: http://menzer.net
     icon: http://legacy.menzer.net/sites/default/files/dev.ico
-  - name: TTRSS
+  - name: Development Site
+    url: http://mnzr.de
+    icon: http://legacy.menzer.net/sites/default/files/dev.ico
+  - name: FreshRSS
     url: https://reader.mnzr.de
-    __dangerous__disable_verify_peer: true
-    icon: http://reader.mnzr.de/images/favicon.png
+    #__dangerous__disable_verify_peer: true
+    icon: http://reader.mnzr.de/favicon.png
   - name: ubuntuusers.de
     url: https://ubuntuusers.de/
     icon: https://ubuntuusers.de/favicon.ico
