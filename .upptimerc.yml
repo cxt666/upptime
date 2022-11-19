@@ -38,7 +38,7 @@ status-website:
       href: /upptime
     - title: GitHub
       href: https://github.com/cxt666/upptime
-     - title: upptime Home
+    - title: upptime Home
       href: https://upptime.js.org
 
 # Upptime also supports notifications, assigning issues, and more
