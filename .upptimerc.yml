@@ -19,33 +19,6 @@ sites:
   - name: ubuntuusers.de Forum
     url: https://forum.ubuntuusers.de/
     icon: https://ubuntuusers.de/favicon.ico
-#  - name: SURAS-DE
-#    url: https://de-emea-vpn.schaeffler.com/vpn
-#    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
-#  - name: SURAS-DE 2
-#    url: https://de-emea2-vpn.schaeffler.com/vpn
-#    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
-#  - name: SURAS-DE 3
-#    url: https://de-emea3-vpn.schaeffler.com/vpn
-#    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
-#  - name: SURAS-AP
-#    url: https://kr-ap-vpn.schaeffler.com/vpn
-#    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
-#  - name: SURAS-CN
-#    url: https://cn-ap-vpn.schaefflercn.com/vpn
-#    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
-#  - name: SURAS-IN
-#    url: https://in-ap-vpn.schaeffler.com/vpn
-#    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
-#  - name: SURAS-NA 1
-#    url: https://us-equ1-vpn.schaeffler.com/vpn
-#    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
-#  - name: SURAS-NA 2
-#    url: https://us-na2-vpn.schaeffler.com/vpn
-#    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
-#  - name: SURAS-BR
-#    url: https://br-sa-vpn.schaeffler.com/vpn
-#    icon: https://www.schaeffler.com/remotemedien/media/_shared_media/technik/images/addresser/favicon/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -63,10 +36,10 @@ status-website:
   navbar:
     - title: Status
       href: /upptime
-    - title: Root
-      href: /
     - title: GitHub
       href: https://github.com/cxt666/upptime
+     - title: upptime Home
+      href: https://upptime.js.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
