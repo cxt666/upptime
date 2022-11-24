@@ -25,9 +25,9 @@
     "url": "http://mnzr.de",
     "icon": "http://legacy.menzer.net/sites/default/files/dev.ico",
     "slug": "development-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,16 +36,18 @@
     "timeWeek": 493,
     "timeMonth": 452,
     "timeYear": 452,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-24": 0
+    }
   },
   {
     "name": "FreshRSS",
     "url": "https://reader.mnzr.de",
     "icon": "http://reader.mnzr.de/favicon.png",
     "slug": "fresh-rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +56,9 @@
     "timeWeek": 646,
     "timeMonth": 592,
     "timeYear": 592,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-24": 0
+    }
   },
   {
     "name": "ubuntuusers.de",
