@@ -4,7 +4,7 @@
     "url": "http://menzer.net",
     "icon": "http://legacy.menzer.net/sites/default/files/dev.ico",
     "slug": "menzer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1265,
     "timeYear": 1132,
     "dailyMinutesDown": {
+      "2022-12-28": 0,
       "2022-12-19": 42,
       "2022-11-08": 18,
       "2022-05-27": 200
