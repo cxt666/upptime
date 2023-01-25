@@ -46,19 +46,19 @@
     "url": "https://reader.mnzr.de",
     "icon": "http://reader.mnzr.de/favicon.png",
     "slug": "fresh-rss",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 755,
-    "timeWeek": 820,
-    "timeMonth": 753,
-    "timeYear": 680,
+    "time": 683,
+    "timeDay": 871,
+    "timeWeek": 841,
+    "timeMonth": 760,
+    "timeYear": 683,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 5
     }
   },
   {
