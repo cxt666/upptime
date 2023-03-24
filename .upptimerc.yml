@@ -19,6 +19,12 @@ sites:
   - name: ubuntuusers.de Forum
     url: https://forum.ubuntuusers.de/
     icon: https://ubuntuusers.de/favicon.ico
+  - name: IWM Insight Platform
+    url: https://eu.data.insight.rapid7.com
+    icon: https://www.rapid7.com/includes/img/favicon.ico
+  - name: IVM Exposure Analytics
+    url: https://eu.exposure-analytics.insight.rapid7.com
+    icon: https://www.rapid7.com/includes/img/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
