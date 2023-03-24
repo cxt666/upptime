@@ -9,6 +9,9 @@ sites:
   - name: Development Site
     url: http://mnzr.de
     icon: http://legacy.menzer.net/sites/default/files/dev.ico
+  - name: Fullmetal Analyst
+    url: https://fullmetal-analyst.de/
+    icon: http://legacy.menzer.net/sites/default/files/dev.ico
   - name: FreshRSS
     url: https://reader.mnzr.de
     #__dangerous__disable_verify_peer: true
