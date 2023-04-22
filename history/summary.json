@@ -99,7 +99,7 @@
     "timeMonth": 482,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2023-04-22": 34,
+      "2023-04-22": 933,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
@@ -212,17 +212,19 @@
     "url": "https://eu.exposure-analytics.insight.rapid7.com",
     "icon": "https://www.rapid7.com/includes/img/favicon.ico",
     "slug": "ivm-exposure-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 528,
-    "timeDay": 843,
-    "timeWeek": 562,
-    "timeMonth": 528,
-    "timeYear": 528,
-    "dailyMinutesDown": {}
+    "time": 524,
+    "timeDay": 618,
+    "timeWeek": 541,
+    "timeMonth": 524,
+    "timeYear": 524,
+    "dailyMinutesDown": {
+      "2023-04-22": 0
+    }
   }
 ]
