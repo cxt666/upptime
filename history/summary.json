@@ -29,9 +29,9 @@
     "url": "http://mnzr.de",
     "icon": "http://legacy.menzer.net/sites/default/files/dev.ico",
     "slug": "development-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -41,6 +41,7 @@
     "timeMonth": 535,
     "timeYear": 506,
     "dailyMinutesDown": {
+      "2023-06-09": 0,
       "2023-01-25": 92
     }
   },
@@ -99,7 +100,7 @@
     "timeMonth": 494,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2023-06-09": 43,
+      "2023-06-09": 659,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
