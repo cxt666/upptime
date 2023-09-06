@@ -6,17 +6,16 @@
     "slug": "menzer-net",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 1230,
     "timeDay": 825,
-    "timeWeek": 731,
+    "timeWeek": 709,
     "timeMonth": 659,
     "timeYear": 1273,
     "dailyMinutesDown": {
-      "2023-09-06": 6,
       "2023-06-23": 436,
       "2023-06-20": 259,
       "2023-06-02": 29,
@@ -34,9 +33,9 @@
     "slug": "development-site",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 517,
     "timeDay": 775,
@@ -44,7 +43,6 @@
     "timeMonth": 593,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2023-09-06": 6,
       "2023-01-25": 92
     }
   },
@@ -55,18 +53,16 @@
     "slug": "fullmetal-analyst",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 648,
     "timeDay": 764,
     "timeWeek": 655,
     "timeMonth": 611,
     "timeYear": 648,
-    "dailyMinutesDown": {
-      "2023-09-06": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FreshRSS",
@@ -75,9 +71,9 @@
     "slug": "fresh-rss",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 716,
     "timeDay": 869,
@@ -85,7 +81,6 @@
     "timeMonth": 699,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2023-09-06": 5,
       "2023-01-25": 91
     }
   },
@@ -106,7 +101,7 @@
     "timeMonth": 450,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2023-09-06": 839,
+      "2023-09-06": 879,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
       "2023-09-03": 1440,
@@ -326,18 +321,20 @@
     "url": "https://eu.data.insight.rapid7.com",
     "icon": "https://www.rapid7.com/includes/img/favicon.ico",
     "slug": "iwm-insight-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 573,
-    "timeDay": 710,
-    "timeWeek": 580,
-    "timeMonth": 593,
-    "timeYear": 573,
-    "dailyMinutesDown": {}
+    "time": 572,
+    "timeDay": 565,
+    "timeWeek": 560,
+    "timeMonth": 588,
+    "timeYear": 572,
+    "dailyMinutesDown": {
+      "2023-09-06": 0
+    }
   },
   {
     "name": "IVM Exposure Analytics",
