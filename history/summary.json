@@ -101,7 +101,7 @@
     "timeMonth": 446,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2023-09-08": 1223,
+      "2023-09-08": 1236,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -323,19 +323,19 @@
     "url": "https://eu.data.insight.rapid7.com",
     "icon": "https://www.rapid7.com/includes/img/favicon.ico",
     "slug": "iwm-insight-platform",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 568,
-    "timeDay": 484,
-    "timeWeek": 521,
-    "timeMonth": 548,
-    "timeYear": 568,
+    "time": 573,
+    "timeDay": 639,
+    "timeWeek": 585,
+    "timeMonth": 571,
+    "timeYear": 573,
     "dailyMinutesDown": {
-      "2023-09-08": 17
+      "2023-09-08": 29
     }
   },
   {
