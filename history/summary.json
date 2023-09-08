@@ -101,7 +101,7 @@
     "timeMonth": 446,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2023-09-08": 31,
+      "2023-09-08": 1088,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
@@ -323,18 +323,20 @@
     "url": "https://eu.data.insight.rapid7.com",
     "icon": "https://www.rapid7.com/includes/img/favicon.ico",
     "slug": "iwm-insight-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 473,
-    "timeWeek": 537,
-    "timeMonth": 555,
-    "timeYear": 570,
-    "dailyMinutesDown": {}
+    "time": 571,
+    "timeDay": 579,
+    "timeWeek": 551,
+    "timeMonth": 559,
+    "timeYear": 571,
+    "dailyMinutesDown": {
+      "2023-09-08": 0
+    }
   },
   {
     "name": "IVM Exposure Analytics",
