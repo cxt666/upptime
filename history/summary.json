@@ -6,9 +6,9 @@
     "slug": "menzer-net",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.77%",
     "time": 1227,
     "timeDay": 1020,
@@ -16,7 +16,7 @@
     "timeMonth": 829,
     "timeYear": 1257,
     "dailyMinutesDown": {
-      "2023-10-11": 0,
+      "2023-10-11": 7,
       "2023-06-23": 436,
       "2023-06-20": 259,
       "2023-06-02": 29,
@@ -34,9 +34,9 @@
     "slug": "development-site",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 528,
     "timeDay": 892,
@@ -44,7 +44,7 @@
     "timeMonth": 654,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2023-10-11": 0,
+      "2023-10-11": 7,
       "2023-01-25": 92
     }
   },
@@ -53,9 +53,9 @@
     "url": "https://fullmetal-analyst.de/",
     "icon": "http://legacy.menzer.net/sites/default/files/dev.ico",
     "slug": "fullmetal-analyst",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -64,7 +64,9 @@
     "timeWeek": 666,
     "timeMonth": 621,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-11": 0
+    }
   },
   {
     "name": "FreshRSS",
@@ -103,7 +105,7 @@
     "timeMonth": 478,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2023-10-11": 710,
+      "2023-10-11": 716,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
