@@ -107,7 +107,7 @@
     "timeMonth": 483,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2024-05-05": 37,
+      "2024-05-05": 862,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
@@ -479,9 +479,9 @@
     "url": "https://ubuntuusers.de/",
     "icon": "https://ubuntuusers.de/favicon.ico",
     "slug": "ubuntuusers-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -491,6 +491,7 @@
     "timeMonth": 970,
     "timeYear": 987,
     "dailyMinutesDown": {
+      "2024-05-05": 0,
       "2023-10-29": 16
     }
   },
@@ -499,9 +500,9 @@
     "url": "https://forum.ubuntuusers.de/",
     "icon": "https://ubuntuusers.de/favicon.ico",
     "slug": "ubuntuusers-de-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -511,6 +512,7 @@
     "timeMonth": 996,
     "timeYear": 928,
     "dailyMinutesDown": {
+      "2024-05-05": 0,
       "2023-10-29": 16
     }
   },
@@ -520,18 +522,18 @@
     "icon": "https://www.rapid7.com/includes/img/favicon.ico",
     "slug": "iwm-insight-platform",
     "status": "down",
-    "uptime": "70.03%",
+    "uptime": "69.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "66.54%",
+    "uptimeYear": "66.39%",
     "time": 555,
     "timeDay": 445,
     "timeWeek": 546,
     "timeMonth": 564,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2024-05-05": 37,
+      "2024-05-05": 862,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
