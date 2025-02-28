@@ -4,9 +4,9 @@
     "url": "http://menzer.net",
     "icon": "http://legacy.menzer.net/sites/default/files/dev.ico",
     "slug": "menzer-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 783,
     "timeYear": 719,
     "dailyMinutesDown": {
+      "2025-02-28": 0,
       "2024-04-23": 47
     }
   },
@@ -99,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2025-02-28": 46,
+      "2025-02-28": 896,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
@@ -520,11 +521,11 @@
     "icon": "https://www.rapid7.com/includes/img/favicon.ico",
     "slug": "iwm-insight-platform",
     "status": "up",
-    "uptime": "70.57%",
+    "uptime": "70.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.13%",
+    "uptimeYear": "58.29%",
     "time": 539,
     "timeDay": 503,
     "timeWeek": 556,
