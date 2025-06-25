@@ -16,9 +16,9 @@ sites:
     url: https://reader.mnzr.de
     #__dangerous__disable_verify_peer: true
     icon: http://reader.mnzr.de/favicon.png
-  - name: RssBridge
-    url: http://bridge.mnzr.de/
-    icon: http://reader.mnzr.de/favicon.png
+#  - name: RssBridge
+#    url: http://bridge.mnzr.de/
+#    icon: http://reader.mnzr.de/favicon.png
   - name: ubuntuusers.de
     url: https://ubuntuusers.de/
     icon: https://ubuntuusers.de/favicon.ico
