@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 796,
-    "timeDay": 995,
-    "timeWeek": 799,
-    "timeMonth": 764,
-    "timeYear": 823,
+    "timeDay": 1090,
+    "timeWeek": 852,
+    "timeMonth": 772,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2025-03-02": 73,
       "2025-02-28": 63
@@ -32,13 +32,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 639,
-    "timeDay": 4926,
-    "timeWeek": 1185,
-    "timeMonth": 719,
+    "timeDay": 595,
+    "timeWeek": 1196,
+    "timeMonth": 717,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2025-06-19": 21,
-      "2024-09-24": 33
+      "2025-06-19": 21
     }
   },
   {
@@ -52,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 632,
-    "timeDay": 964,
-    "timeWeek": 632,
-    "timeMonth": 757,
+    "time": 633,
+    "timeDay": 753,
+    "timeWeek": 674,
+    "timeMonth": 762,
     "timeYear": 648,
     "dailyMinutesDown": {}
   },
@@ -71,13 +70,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 768,
-    "timeDay": 5298,
-    "timeWeek": 1391,
-    "timeMonth": 867,
-    "timeYear": 790,
-    "dailyMinutesDown": {
-      "2024-09-24": 33
-    }
+    "timeDay": 999,
+    "timeWeek": 1437,
+    "timeMonth": 876,
+    "timeYear": 791,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ubuntuusers.de",
@@ -91,10 +88,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 973,
-    "timeDay": 1337,
-    "timeWeek": 974,
-    "timeMonth": 968,
-    "timeYear": 984,
+    "timeDay": 1085,
+    "timeWeek": 1016,
+    "timeMonth": 971,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2025-07-18": 54,
       "2025-03-08": 105,
@@ -114,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 872,
-    "timeDay": 971,
-    "timeWeek": 835,
-    "timeMonth": 834,
-    "timeYear": 860,
+    "time": 871,
+    "timeDay": 1017,
+    "timeWeek": 864,
+    "timeMonth": 839,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2025-07-18": 54,
       "2025-03-08": 105,
@@ -133,16 +130,16 @@
     "icon": "https://www.rapid7.com/includes/img/favicon.ico",
     "slug": "iwm-insight-platform",
     "status": "up",
-    "uptime": "77.24%",
+    "uptime": "77.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 570,
-    "timeDay": 616,
-    "timeWeek": 564,
-    "timeMonth": 560,
-    "timeYear": 583,
+    "timeDay": 682,
+    "timeWeek": 585,
+    "timeMonth": 564,
+    "timeYear": 584,
     "dailyMinutesDown": {}
   },
   {
@@ -157,10 +154,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 553,
-    "timeDay": 666,
-    "timeWeek": 563,
-    "timeMonth": 539,
-    "timeYear": 563,
+    "timeDay": 664,
+    "timeWeek": 585,
+    "timeMonth": 543,
+    "timeYear": 564,
     "dailyMinutesDown": {}
   }
 ]
