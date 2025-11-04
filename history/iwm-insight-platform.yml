@@ -1,7 +1,7 @@
 url: https://eu.data.insight.rapid7.com
-status: down
-code: 502
-responseTime: 515
-lastUpdated: 2025-11-04T12:38:42.906Z
+status: up
+code: 200
+responseTime: 667
+lastUpdated: 2025-11-04T14:12:21.716Z
 startTime: 2023-03-24T11:34:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
