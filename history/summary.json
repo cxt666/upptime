@@ -145,19 +145,19 @@
     "url": "https://eu.exposure-analytics.insight.rapid7.com",
     "icon": "https://www.rapid7.com/includes/img/favicon.ico",
     "slug": "ivm-exposure-analytics",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 685,
-    "timeWeek": 677,
-    "timeMonth": 604,
-    "timeYear": 572,
+    "time": 561,
+    "timeDay": 512,
+    "timeWeek": 620,
+    "timeMonth": 591,
+    "timeYear": 571,
     "dailyMinutesDown": {
-      "2025-11-24": 0
+      "2025-11-24": 22
     }
   }
 ]
